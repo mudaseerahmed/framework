@@ -1,0 +1,5 @@
+09:18:51.396 INFO  util.Util -Waiting 0.01 seconds :: Clicked on :: clicked on signin
+09:18:51.462 INFO  base.Checkpoint -test01.pass:PASS
+09:18:51.462 INFO  base.Checkpoint -test01.pass:PASS
+09:18:51.494 INFO  base.Checkpoint -test01.pass:PASS
+09:18:51.494 INFO  base.Checkpoint -test01.pass:PASS

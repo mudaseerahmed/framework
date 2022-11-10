@@ -1,0 +1,2 @@
+14:21:57.057 INFO  base.Customdriver - The text is : TABLE LAMP 6500
+14:21:57.430 INFO  base.Customdriver -Element List found with: xpath=>//a[contains(text(),'Browse')]

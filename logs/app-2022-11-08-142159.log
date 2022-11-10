@@ -1,0 +1,3 @@
+14:21:59.008 INFO  util.Util -Waiting 0.01 seconds :: Clicked on :: clicked on browselink
+14:21:59.075 INFO  base.Customdriver - The text is : TABLE LAMP 6500
+14:21:59.184 INFO  util.Util -Waiting 0.01 seconds :: Clicked on :: clicked on  remove link

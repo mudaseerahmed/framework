@@ -1,0 +1,16 @@
+12:49:46.175 DEBUG opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+12:49:46.237 DEBUG opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+12:49:46.804 TRACE common.XBeanDebug -Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:49:46.812 TRACE common.XBeanDebug -Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:49:46.813 TRACE common.XBeanDebug -Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:49:46.814 TRACE common.XBeanDebug -Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:49:46.815 TRACE common.XBeanDebug -Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:49:46.818 TRACE common.XBeanDebug -Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:49:46.852 TRACE common.XBeanDebug -Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:49:46.854 TRACE common.XBeanDebug -Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:49:46.865 TRACE common.XBeanDebug -Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:49:46.867 TRACE common.XBeanDebug -Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:49:46.873 TRACE common.XBeanDebug -Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:49:46.879 TRACE common.XBeanDebug -Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:49:46.883 TRACE common.XBeanDebug -Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:49:46.885 TRACE common.XBeanDebug -Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml

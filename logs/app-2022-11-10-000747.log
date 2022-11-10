@@ -1,0 +1,3 @@
+00:07:47.554 INFO  util.Testlistener -on startTest
+00:07:47.564 INFO  util.Testlistener -These methods will be executed in this <test> tag
+00:07:47.564 INFO  util.Testlistener -validatehighlow
