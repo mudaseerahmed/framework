@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T13:01:51Z" name="Default suite" finished-at="2022-11-10T13:02:24Z" duration-ms="32471">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T13:01:51Z" name="Default test" finished-at="2022-11-10T13:02:24Z" duration-ms="32471">
+      <class name="com.qa.tests.Testoneproductgrea">
+        <test-method signature="great()[pri:0, instance:com.qa.tests.Testoneproductgrea@25f4878b]" started-at="2022-11-10T13:01:52Z" name="great" finished-at="2022-11-10T13:02:24Z" duration-ms="32341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- great -->
+      </class> <!-- com.qa.tests.Testoneproductgrea -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
